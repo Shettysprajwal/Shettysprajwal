@@ -2,7 +2,7 @@
 <h3 align="center">A passionate frontend developer from India</h3>
 <h2 align="center">Java Full Stack Intern @ DLithe</h2>
 
-<img align="right" alt="developer" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gifw">
+<img align="right" alt="developer" width="400" src="https://user-images.githubusercontent.com/74038190/219923823-bf1ce878-c6b8-4faa-be07-93e6b1006521.gif">
 <p align="left">
   <em>
     "Creativity is intelligence having fun." – Albert Einstein<br/>
