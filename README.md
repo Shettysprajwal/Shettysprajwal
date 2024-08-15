@@ -3,6 +3,7 @@
 <h2 align="center">Java Full Stack Intern @ DLithe</h2>
 
 <img align="right" alt="developer" width="400" src="https://user-images.githubusercontent.com/74038190/219923823-bf1ce878-c6b8-4faa-be07-93e6b1006521.gif">
+
 <p align="left">
   <em>
     "Creativity is intelligence having fun." – Albert Einstein<br/>
@@ -11,15 +12,24 @@
 </p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prajwalshetty2002&label=Profile%20views&color=0e75b6&style=flat" alt="prajwalshetty2002" /> </p>
 
-- 🔭 I’m currently working on **Java Full Stack(upskilling)**
+- 🔭 I’m currently working on **Java Full Stack (upskilling)**
 
 - 🤝 I’m looking for help with **Innovative Ideas**
 
-- 💬 Ask me about **Front-End,Desiging**
+- 💬 Ask me about **Front-End, Designing**
 
 - 📫 How to reach me **shetty.prajwal802@gmail.com**
 
-- ⚡ Fun fact **I think Im creative ,**
+- ⚡ Fun fact **I think I'm creative,**
+
+<h3 align="left">Certifications:</h3>
+<ul>
+  <li><a href="https://www.hackerrank.com/certificates/b889bc08616d" target="_blank">Software Engineer Intern - HackerRank</a></li>
+  <li><a href="https://www.hackerrank.com/certificates/b889bc08616d" target="_blank">Python (Basic) - HackerRank</a></li>
+  <li><a href="https://www.hackerrank.com/certificates/b889bc08616d" target="_blank">SQL (Basic) - HackerRank</a></li>
+  <li><a href="https://www.hackerrank.com/certificates/b889bc08616d" target="_blank">SQL (Intermediate) - HackerRank</a></li>
+  <li><a href="https://www.hackerrank.com/certificates/b889bc08616d" target="_blank">CSS (Basic) - HackerRank</a></li>
+</ul>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
