@@ -116,13 +116,13 @@
 ---
 
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=prajwalshetty802&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Shettysprajwal&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=prajwalshetty2002&show_icons=true&locale=en" alt="GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Shettysprajwal&show_icons=true&locale=en" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=prajwalshetty2002&" alt="GitHub Streak" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Shettysprajwal&" alt="GitHub Streak" />
 </p>
