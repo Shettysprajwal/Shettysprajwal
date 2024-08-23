@@ -19,6 +19,15 @@
 
 ---
 
+### 🎖 ServiceNow Badges
+<p align="center">
+  <a href="https://nowlearning.servicenow.com/lxp/en/pages/profile?id=profile&spa=1&parent=1eb3e5d31b08705002ed2f89bd4bcb75&child=bd2e11cadbd8c994821fdb85ca96190c">
+    <img align="center" src="https://img.shields.io/badge/ServiceNow-Profile-blue?style=for-the-badge" alt="ServiceNow Profile" />
+  </a>
+</p>
+
+---
+
 ### 🚀 About Me
 - 🔭 I’m currently working on **Java Full Stack (upskilling)**
 - 🤝 I’m looking for help with **Innovative Ideas**
@@ -126,35 +135,3 @@
 <p align="center">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Shettysprajwal&" alt="GitHub Streak" />
 </p>
-
-
----
-
-### 🏆 Achievements & Streak
-
-<p align="center">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Shettysprajwal&" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Shettysprajwal&show_icons=true&locale=en" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Shettysprajwal&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img align="center" src="https://streak-stats.demolab.com/?user=Shettysprajwal&theme=highcontrast&hide_border=true" alt="HackerRank Streak" />
-</p>
-
----
-
-### 🏅 HackerRank Achievements
-
-<p align="center">
-  <a href="https://www.hackerrank.com/shetty_prajwal81" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank" height="30" width="40" />
-  </a>
-</p>
-
