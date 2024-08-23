@@ -126,3 +126,35 @@
 <p align="center">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Shettysprajwal&" alt="GitHub Streak" />
 </p>
+
+
+---
+
+### 🏆 Achievements & Streak
+
+<p align="center">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Shettysprajwal&" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Shettysprajwal&show_icons=true&locale=en" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Shettysprajwal&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img align="center" src="https://streak-stats.demolab.com/?user=Shettysprajwal&theme=highcontrast&hide_border=true" alt="HackerRank Streak" />
+</p>
+
+---
+
+### 🏅 HackerRank Achievements
+
+<p align="center">
+  <a href="https://www.hackerrank.com/shetty_prajwal81" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank" height="30" width="40" />
+  </a>
+</p>
+
