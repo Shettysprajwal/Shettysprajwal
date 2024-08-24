@@ -135,3 +135,11 @@
 <p align="center">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Shettysprajwal&" alt="GitHub Streak" />
 </p>
+
+### 📄 Resume:
+<p align="center">
+  <a href="https://github.com/Shettysprajwal/your-repository-name/raw/main/Prajwal S Shetty Resume(u).pdf" target="_blank">
+    <img align="center" src="https://img.shields.io/badge/Resume-Download-blue?style=for-the-badge" alt="Resume" />
+  </a>
+</p>
+
