@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Prajwal Shetty</h1>
+on<h1 align="center">Hi 👋, I'm Prajwal Shetty</h1>
 <h3 align="center">A Passionate Frontend Developer from India</h3>
 <h2 align="center">Java Full Stack Intern @ DLithe</h2>
 
@@ -138,7 +138,7 @@
 
 ### 📄 Resume:
 <p align="center">
-  <a href="https://github.com/Shettysprajwal/your-repository-name/raw/main/Prajwal S Shetty Resume(u).pdf" target="_blank">
+  <a href="https://github.com/Shettysprajwal/connections/raw/main/Prajwal S Shetty Resume(u).pdf" target="_blank">
     <img align="center" src="https://img.shields.io/badge/Resume-Download-blue?style=for-the-badge" alt="Resume" />
   </a>
 </p>
