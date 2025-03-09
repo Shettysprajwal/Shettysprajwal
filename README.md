@@ -49,6 +49,20 @@
 
 ---
 
+### 🛠️ Tools & Technologies
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="50" height="50"/>
+  <img src="https://www.svgrepo.com/show/354202/swagger.svg" alt="Swagger" width="50" height="50"/>
+  <img src="https://www.wireshark.org/assets/images/wireshark-logo.png" alt="Wireshark" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="50" height="50"/>
+</p>
+
+---
+
 ### 🌐 Connect with Me:
 <p align="center">
   <a href="https://linkedin.com/in/prajwal-shetty-56861a293" target="blank">
