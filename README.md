@@ -99,8 +99,20 @@ I’m **Prajwal Shetty**, a tech-driven individual combining **security + creati
 ---
 
 ### 📄 Resume
-📌 Upload your PDF & paste link here  
-🔗 **Resume Link:** _Coming Soon_
+<div align="center">
+
+🔗 **Preview My Resume:**  
+<a href="YOUR_RESUME_LINK_HERE" target="_blank">
+  <img src="https://img.shields.io/badge/Preview%20Resume-FFB000?style=for-the-badge&logo=google-chrome&logoColor=black" />
+</a>
+
+📥 **Download Resume:**  
+<a href="YOUR_RESUME_LINK_HERE" download>
+  <img src="https://img.shields.io/badge/Download%20Resume-0078D4?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" />
+</a>
+
+</div>
+
 
 ---
 
