@@ -1,120 +1,244 @@
-<!-- Animated Header -->
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=600&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Prajwal+Shetty+👋;Frontend+Developer+%7C+Cybersecurity+Researcher;Java+Full+Stack+Developer;Freelance+Java+Trainer;Securing+the+Future%2C+One+Line+of+Code+at+a+Time+🔐" />
-</h1>
-
----
+<h1 align="center">Prajwal S Shetty</h1>
+<h3 align="center">Cybersecurity Engineer | Security Researcher | Secure System Architect</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Shettysprajwal&label=Profile%20Views&color=blueviolet&style=for-the-badge" />
+🔐 Designing Secure Systems • 🧠 AI-Driven Threat Intelligence • 🚀 Building Scalable Applications
 </p>
 
 ---
 
-### 👨‍💻 About Me
-I’m **Prajwal Shetty**, a tech-driven individual combining **security + creativity + engineering** to build impactful digital experiences.
+## 📍 Professional Summary
 
-🔭 Currently: **M.Tech – Cybersecurity + Java Full Stack Development**  
-🧠 Research: **Blockchain Security | Threat Detection | Digital Forensics | Secure Web Apps**  
-🧑‍🏫 Freelancing: **Java Trainer — Core/Adv Java + DSA + Projects**  
-🎯 Goal: Become a **Cybersecurity Engineer & Architectural Problem Solver**
+Security-focused engineer currently pursuing **M.Tech in Cyber Security (CGPA: 8.5)** with hands-on expertise in:
 
----
+- Web & Mobile VAPT
+- ML-based Threat Detection
+- Secure Full Stack Development
+- Blockchain Security
+- Cloud & Identity Security
 
-### 🛡 Cybersecurity Tools & Research Skills
-| Domain | Tools |
-|--------|-------|
-| Network Security | Wireshark, Nmap, TCPDump, Zeek, Cisco Packet Tracer |
-| Vulnerability & Pentesting | Burp Suite, Metasploit, OWASP ZAP, Nessus |
-| Forensics | Autopsy, Volatility, FTK Imager, ProDiscover |
-| Blockchain Security | Smart Contract Auditing, Solidity, Hardhat, Ganache |
-| Threat Detection | Snort IDS, SIEM Concepts, MITRE ATT&CK |
-| Secure Development | Swagger API, Postman, CVE Analysis, DevSecOps Basics |
+🌏 International Conference Author – ICMLAS 2026 (Thailand)  
+🇯🇵 Application Security Engineer Intern – Vill Design, Japan  
+
+My mission: **Build intelligent systems that detect threats before attackers succeed.**
 
 ---
 
-### 💻 Tech Stack
+# 🏆 International Research Publication
+
+## 📄 Active Suspicious Text Detection Using Machine Learning Approaches
+📌 Accepted at 3rd International Conference on Machine Learning and Autonomous Systems (ICMLAS 2026)  
+🏫 Stamford International University, Bangkok, Thailand  
+
+### 🔬 Research Highlights
+- Designed hybrid NLP-based suspicious communication detection framework  
+- Implemented Word2Vec & BERT embeddings  
+- Built LSTM, Random Forest & XGBoost classifiers  
+- Integrated real-time streaming threat detection  
+- Achieved high classification accuracy  
+
+---
+
+# 🧠 Novel Hybrid Models Developed
+
+As part of my international research, I designed two advanced hybrid deep learning architectures:
+
+---
+
+## 🔬 Model 1: GNN + Transformer Hybrid (GNN-TF)
+
+### 🎯 Structural + Semantic Intelligence Model
+
+### Architecture Flow:
+1. Transformer encoding → Contextual CLS vector
+2. Dependency graph construction
+3. Graph Neural Network over word relationships
+4. Graph pooling
+5. Feature fusion (CLS + Graph embedding)
+6. Softmax classification
+
+### Strength:
+✔ Captures syntactic structure  
+✔ Understands contextual meaning  
+✔ Detects structured manipulation patterns  
+
+Ideal For:
+- Fraud conversations
+- Grooming detection
+- Social network text analysis
+
+---
+
+## 🔬 Model 2: BERT-LSTM-CNN Hybrid (BLC-Hybrid)
+
+### 🎯 Sequential + Pattern Intelligence Model
+
+### Architecture Layers:
+- BERT → Contextual embeddings
+- CNN → Keyword detection
+- Character-CNN → Spelling tricks
+- Bi-LSTM → Sequential flow understanding
+- Attention Layer → Focus on suspicious tokens
+- Dense layers → Classification
+
+### Strength:
+✔ Detects slang & obfuscation  
+✔ Captures conversation flow  
+✔ Identifies hidden malicious intent  
+
+---
+
+## 📊 Hybrid Intelligence Mapping
+
+| Signal Type | Responsible Component |
+|------------|----------------------|
+| Context Meaning | BERT / Transformer |
+| Word Order Flow | Bi-LSTM |
+| Slang / Keywords | CNN |
+| Word Relationships | GNN |
+| Hidden Intent | Attention |
+
+---
+
+# 🚀 Flagship Product: LetsConnect (Secure Messaging Ecosystem)
+
+A WhatsApp-inspired secure communication platform with AI & enhanced security features.
+
+### 🔹 Core Features
+- Real-time messaging (WebSockets)
+- JWT-based secure authentication
+- Role-Based Access Control
+- AI Chat Assistant
+- Daily Horoscope Bot
+- Integrated News Feed
+- End-to-End Encryption (Planned)
+
+### 🛡 Security Enhancements
+- OWASP Top 10 mitigation
+- Secure password hashing
+- Token expiration & refresh strategy
+- Input validation & secure APIs
+- Threat logging & anomaly detection (Planned)
+
+### 🏗 Tech Stack
+Backend: Spring Boot  
+Frontend: React  
+Database: MySQL  
+Security: JWT + RBAC  
+Deployment (Planned): Docker + Kubernetes  
+
+---
+
+# 🛡 Cybersecurity Expertise
+
+## 🔍 Vulnerability Assessment & Penetration Testing
+Burp Suite | OWASP ZAP | MobSF | Metasploit  
+
+## 🌐 Network & Infrastructure Security
+Nmap | Wireshark | Zeek | Cisco Packet Tracer  
+
+## 🧬 Threat Detection & Intelligence
+MITRE ATT&CK | Snort IDS | SIEM Concepts  
+
+## 🔗 Blockchain Security
+Consensus Algorithms | Secure Distributed Systems  
+
+## ☁ Cloud & Identity
+IAM Fundamentals | Cloud Security Concepts  
+
+## 🐳 Containers & Virtualization
+Docker | Kubernetes | VirtualBox  
+
+---
+
+# 💼 Professional Experience
+
+## 🇯🇵 Application Security Engineer Intern – Vill Design, Japan
+- Conducted Web & Mobile VAPT on 10+ applications  
+- Identified 20+ critical vulnerabilities  
+- Delivered structured mitigation reports  
+
+## 💻 Full Stack Developer Intern – DLithe
+- Developed CRUD web applications (Flask + MySQL)  
+
+## 🧪 Manual Testing Intern – Quiph Media Pvt Ltd
+- Wrote test cases & logged defects  
+
+## 👨‍🏫 Java Full Stack Trainee – QSpiders
+- Built end-to-end full stack projects  
+- Strengthened DSA & problem solving skills  
+
+---
+
+# 📊 Security Metrics Snapshot
+
+✔ 20+ Critical Vulnerabilities Identified  
+✔ 10+ Applications Security Tested  
+✔ 4+ Technical Internships  
+✔ 1 International Conference Paper  
+✔ 8.5 CGPA – M.Tech Cybersecurity  
+
+---
+
+# 🧪 Major Academic & Security Projects
+
+### 🔹 Intelligent NLP-Based Malicious Communication Detection
+Real-time phishing & hate speech detection using hybrid ML models.
+
+### 🔹 Link Sentinel – Web Application Security Analyzer
+Flask + Shodan API automated security assessment tool.
+
+### 🔹 Healthcare Management System
+Secure doctor dashboard & vendor comparison system.
+
+### 🔹 DBMS Unique ID System
+SQL-driven secure record management system.
+
+---
+
+# 🎓 Education
+
+M.Tech – Cyber Security  
+NMAM Institute of Technology (2024–2026) – CGPA: 8.5  
+
+B.E – Computer Science & Engineering  
+Alva’s Institute of Engineering & Technology (2020–2024) – CGPA: 7.51  
+
+---
+
+# 📜 Certifications
+
+✔ ServiceNow Certified Application Developer  
+✔ Google Cybersecurity Professional Certificate  
+✔ Cisco Certified Support Technician – Networking  
+✔ NPTEL – Blockchain & IoT  
+
+---
+
+# 🌍 Leadership & Activities
+
+- Organizer – Alva’s International Jamboree  
+- Led Tulu Forum & Readers’ Club  
+- Conducted 2-Month C & Java Training Program  
+- Faculty Development Program – AIML & NextGen Technologies  
+
+---
+
+# 🌐 Languages
+
+English | Hindi | Kannada | Malayalam | Japanese (Beginner)
+
+---
+
+# 🎯 Career Vision
+
+To become a Security Architect specializing in:
+- AI-driven cyber defense systems
+- Secure cloud-native architecture
+- Scalable distributed security platforms
+
+---
+
 <p align="center">
-<img src="https://skillicons.dev/icons?i=java,python,c,js,html,css,bootstrap,mysql,spring,git,github,linux,vscode,postman,figma" />
+🔥 Secure First. Build Smart. Scale Fearlessly. 🔥
 </p>
-
----
-
-### 🧑‍🏫 Freelance — Java Training
-💼 For students | job seekers | working professionals  
-📌 Topics: **Core Java, OOP, DSA, JDBC, MySQL, Java Projects, Debugging Skills, Interview Prep**  
-🔥 Complete guidance with **Live Projects + Resume + LinkedIn + GitHub optimization**
-
----
-
-### 🏆 Awards | Badges | Certifications
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Shettysprajwal&theme=dracula&no-frame=true&margin-w=10" />
-</p>
-
-🟣 ServiceNow Certified Application Developer  
-🔵 Cisco Certified Support Technician (Networking)  
-🟢 HackerRank Badges: Python | SQL Basic | SQL Intermediate | CSS  
-🔴 TechGig + TryHackMe Cybersecurity Credentials  
-
----
-
-### 📌 Live Widgets
-📌 GitHub Stats  
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Shettysprajwal&show_icons=true&theme=tokyonight" />
-<br>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Shettysprajwal&theme=tokyonight" />
-<br>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shettysprajwal&layout=compact&theme=tokyonight" />
-</p>
-
-📌 GitHub Achievements  
-<p align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Shettysprajwal&theme=tokyonight" />
-</p>
-
-📌 Random Dev Quote  
-<p align="center">
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
-</p>
-
----
-
-### 🐍 Contribution Snake Animation
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Shettysprajwal/Shettysprajwal/output/github-contribution-grid-snake.svg" />
-</p>
-
----
-
-### 🌐 Connect With Me
-<p align="center">
-<a href="mailto:shetty.prajwal802@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"></a>
-<a href="https://www.linkedin.com/in/prajwal-shetty-56861a293"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-<a href="https://www.codechef.com/users/shettyprajwal8"><img src="https://img.shields.io/badge/CodeChef-6B4F2E?style=for-the-badge&logo=codechef&logoColor=white"></a>
-<a href="https://tryhackme.com/p/shetty.prajwal80"><img src="https://img.shields.io/badge/TryHackMe-A9225C?style=for-the-badge&logo=tryhackme&logoColor=white"></a>
-</p>
-
----
-
-### 📄 Resume
-<div align="center">
-
-🔗 **Preview My Resume:**  
-<a href="YOUR_RESUME_LINK_HERE" target="_blank">
-  <img src="https://img.shields.io/badge/Preview%20Resume-FFB000?style=for-the-badge&logo=google-chrome&logoColor=black" />
-</a>
-
-📥 **Download Resume:**  
-<a href="YOUR_RESUME_LINK_HERE" download>
-  <img src="https://img.shields.io/badge/Download%20Resume-0078D4?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" />
-</a>
-
-</div>
-
-
----
-
-<p align="center"><b>🔥 Always learning • Always coding • Always securing 🔥</b></p>
-<p align="center">If you like my work, ⭐ star my repositories & 💬 connect anytime!</p>
